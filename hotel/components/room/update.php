@@ -79,3 +79,5 @@ if(isset($_POST) & !empty($_POST)){
 	</div>
 	
 <?php require_once($path . 'templates/footer.php') ?>
+
+-- Edited By: Waleed Ibrahim
