@@ -1,3 +1,4 @@
+// Edited By:Adham
 <?php 
 
 $server = 'http://' . $_SERVER['SERVER_NAME'] . '/hotel/';
