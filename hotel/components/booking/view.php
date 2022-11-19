@@ -98,3 +98,5 @@ $res = mysqli_query($connection, $ReadSql);
 </div>
 
 <?php require($path . 'templates/footer.php') ?>
+
+-- Edited By: Waleed Ibrahim
