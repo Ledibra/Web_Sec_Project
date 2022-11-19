@@ -1,5 +1,6 @@
 <?php
 // Initialize the session
+//Edited By Ali Abdelhamid
 session_start();
  
 // Include config file
