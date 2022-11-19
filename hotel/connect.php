@@ -1,3 +1,4 @@
+// Edited By:Adham
 <?php
 $connection = mysqli_connect('localhost', 'root', '');
 if (!$connection){
