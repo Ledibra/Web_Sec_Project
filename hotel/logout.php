@@ -1,4 +1,5 @@
 <?php
+//Edited By Ali Abdelhamid
 // Initialize the session
 session_start();
  
