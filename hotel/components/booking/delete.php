@@ -12,3 +12,5 @@ if($res){
 	echo "Failed to delete";
 }
 ?>
+
+-- Edited By: Waleed Ibrahim
