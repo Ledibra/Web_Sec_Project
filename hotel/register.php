@@ -1,5 +1,5 @@
 <?php
-// Include config file ali
+// Include config file ali2
 require_once "connect.php";
  
 // Define variables and initialize with empty values
